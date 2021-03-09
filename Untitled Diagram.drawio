@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T20:13:27.146Z" agent="5.0 (Windows)" version="14.4.6" etag="tQIy2zbB6LhzJTJCNsd7" type="github"><diagram id="MuLgWHoYY86BpLLzmhau">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-09T20:19:33.029Z" agent="5.0 (Windows)" etag="pyLcbTaQGfS8hKEyhmBW" version="14.4.6" type="github">
+  <diagram id="MuLgWHoYY86BpLLzmhau" name="Page-1">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="meSNmg4tzVMnBfCdGpod-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="75" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-1" value="CAN Arduino" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meSNmg4tzVMnBfCdGpod-2" target="meSNmg4tzVMnBfCdGpod-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meSNmg4tzVMnBfCdGpod-2" target="meSNmg4tzVMnBfCdGpod-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="meSNmg4tzVMnBfCdGpod-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="220" />
+              <mxPoint x="630" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-2" value="Traitement Arduino1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-3" value="Traitement Arduino 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-4" value="Servomoteur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-6" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="meSNmg4tzVMnBfCdGpod-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="220" as="sourcePoint" />
+            <mxPoint x="550" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-7" value="Tension Potentiomètre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meSNmg4tzVMnBfCdGpod-1" target="meSNmg4tzVMnBfCdGpod-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="550" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="meSNmg4tzVMnBfCdGpod-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="880" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-12" value="Port Série 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-14" value="Port Série 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-16" value="Arduino 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="meSNmg4tzVMnBfCdGpod-18" value="Arduino 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
