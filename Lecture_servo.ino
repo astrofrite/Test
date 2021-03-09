@@ -41,7 +41,7 @@ void loop()
 
 
   ttimer = ttimer - 1000;
-  pos = ttimer * 0.090;
+  pos = ttimer * 0.09;
 
   if (timer1 = timetrans + 500000)
   {

@@ -1,17 +1,15 @@
-int Sortie_sevo = 13;
+int Sortie_servo = 13;
 int potar = A0;
 
-float sensorValue=0;
+int sensorValue=0;
 float voltage =0;
 
 float Temperature = 0;
-float Temp_Anc = 0;
 
 long Timer = 0;
 long AncTimer_1 = 0;
 
-long Timer_2 = 0;
-long AncTimer_2 = 0;
+
 
 
 void setup() {
